@@ -1,3 +1,4 @@
+"seasonvar.zone",
 "naked-science.ru",
 "weather.com",
 "dnsleaktest.com",
