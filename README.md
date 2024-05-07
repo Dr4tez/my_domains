@@ -1,6 +1,5 @@
 "naked-science.ru",
 "weather.com",
-"aeza-fn.kyjiep.com",
 "dnsleaktest.com",
 "test-ipv6.com",
 "nnmclub.to",
