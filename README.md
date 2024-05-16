@@ -13,7 +13,7 @@
 "intel.com",
 "4pda.to",
 "habr.com",
-"copilot.microsoft.com",
+"microsoft.com",
 "bing.com",
 "oaistatic.com",
 "openai.com",
