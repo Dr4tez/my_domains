@@ -19,6 +19,8 @@
 "oaistatic.com",
 "openai.com",
 "chatgpt.com",
+"copilot.microsoft.com",
+"designer.microsoft.com",
 "bing.com",
 "instagram.com",
 "cdninstagram.com",
