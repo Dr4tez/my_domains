@@ -1,3 +1,4 @@
+"play.google.com",
 "seasonvar.zone",
 "weather.com",
 "dnsleaktest.com",
