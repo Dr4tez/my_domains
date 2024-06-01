@@ -1,3 +1,4 @@
+"news.google.com",
 "play.google.com",
 "seasonvar.zone",
 "weather.com",
@@ -18,6 +19,7 @@
 "4pda.to",
 "habr.com",
 "oaistatic.com",
+"oaiusercontent.com",
 "openai.com",
 "chatgpt.com",
 "copilot.microsoft.com",
