@@ -1,3 +1,4 @@
+My selected domain_suffixes in my_domains.srs file for use in sing-box.
 "news.google.com",
 "play.google.com",
 "seasonvar.zone",
