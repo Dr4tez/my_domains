@@ -23,6 +23,7 @@ Contains the following domain suffixes:
 "thepiratebay.org",
 "filmix.ac",
 "hdrezka.ag",
+"hdrezka.ac",
 "seasonvar.zone",
 "weather.com",
 "intel.com",
