@@ -18,7 +18,7 @@ Contains the following domain suffixes:
 "rutracker.cc",
 "booktracker.org",
 "torrent.by",
-"megapeer.ru",
+"megapeer.vip",
 "rutor.info",
 "thepiratebay.org",
 "filmix.ac",
