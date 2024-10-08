@@ -1,5 +1,7 @@
 My selected domains in my_domains.srs file for use in sing-box configuration files. To use, you can paste the link https://github.com/Dr4tez/my_domains/raw/main/my_domains.srs into your config.json and create your rules according to https://sing-box.sagernet.org/configuration.
-Contains the following domain suffixes:
+Contains the following domain domain keywords:
+"discord"
+and domain suffixes:
 "test-ipv6.com",
 "dnsleaktest.com",
 "googleusercontent.com",
