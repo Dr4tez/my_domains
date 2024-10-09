@@ -24,6 +24,7 @@ and domain suffixes:
 "rutor.info",
 "thepiratebay.org",
 "filmix.ac",
+"filmix.fm",
 "hdrezka.ag",
 "hdrezka.ac",
 "statichdrezka.ac",
