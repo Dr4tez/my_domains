@@ -16,6 +16,7 @@ and domain suffixes:
 "play.google.com",
 "flibusta.site",
 "nnmclub.to",
+"nnmstatic.win",
 "rutracker.org",
 "rutracker.cc",
 "booktracker.org",
