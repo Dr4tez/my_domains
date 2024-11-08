@@ -24,7 +24,6 @@ and domain suffixes:
 "megapeer.vip",
 "rutor.info",
 "thepiratebay.org",
-"filmix.ac",
 "filmix.fm",
 "hdrezka.ag",
 "hdrezka.ac",
