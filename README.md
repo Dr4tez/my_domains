@@ -51,4 +51,5 @@ and domain suffixes:
 "themoviedb.org",
 "tmdb.org",
 "themoviedatabase.org",
-"cloudflare-ech.com".
+"cloudflare-ech.com",
+"ntc.party".
