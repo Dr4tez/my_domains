@@ -22,6 +22,7 @@ and domain suffixes:
 "booktracker.org",
 "torrent.by",
 "rutor.info",
+"megapeer.vip",
 "thepiratebay.org",
 "filmix.fm",
 "hdrezka.ag",
