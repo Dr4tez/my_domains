@@ -50,4 +50,5 @@ and domain suffixes:
 "fb.com",
 "themoviedb.org",
 "tmdb.org",
-"themoviedatabase.org".
+"themoviedatabase.org",
+"cloudflare-ech.com".
