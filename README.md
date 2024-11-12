@@ -5,7 +5,6 @@ and domain suffixes:
 "test-ipv6.com",
 "dnsleaktest.com",
 "googleusercontent.com",
-"googleapis.com",
 "googlevideo.com",
 "ggpht.com",
 "youtube.com",
