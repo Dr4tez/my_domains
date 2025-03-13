@@ -3,7 +3,6 @@
   "rules": [
       {
       "domain_suffix": [
-        "test-ipv6.com",
         "dnsleaktest.com",
         "googleusercontent.com",
         "googleapis.com",
@@ -49,6 +48,7 @@
         "byteeffecttos-g.com"
       ],
       "domain_keyword": [
+        "test-ipv6",
         "youtube",
         "rutracker",
         "rezka.ag",
