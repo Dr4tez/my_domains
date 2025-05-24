@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rules": [
       {
       "domain_suffix": [
@@ -46,7 +46,9 @@
         "ttwstatic.com",
         "ttlivecdn.com",
         "pipopay.com",
-        "byteeffecttos-g.com"
+        "byteeffecttos-g.com",
+        "libretro.com",
+        "qbittorrent.org"
       ],
       "domain_keyword": [
         "test-ipv6",
