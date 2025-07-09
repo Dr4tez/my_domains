@@ -1,7 +1,7 @@
 {
   "version": 3,
   "rules": [
-      {
+    {
       "domain_suffix": [
         "dnsleaktest.com",
         "googleusercontent.com",
@@ -22,11 +22,17 @@
         "filmix.my",
         "weather.com",
         "intel.com",
-        "4pda.to",
-        "4pda.ws",
         "habr.com",
         "adguard.com",
         "meduza.io",
+        "libretro.com",
+        "qbittorrent.org",
+        "proton.me",
+        "gemini.google.com",
+        "ntc.party",
+        "cloudflare-ech.com",
+        "4pda.to",
+        "4pda.ws",
         "oaistatic.com",
         "oaiusercontent.com",
         "openai.com",
@@ -40,16 +46,11 @@
         "themoviedb.org",
         "tmdb.org",
         "themoviedatabase.org",
-        "cloudflare-ech.com",
-        "ntc.party",
         "byteoversea.com",
         "ttwstatic.com",
         "ttlivecdn.com",
         "pipopay.com",
         "byteeffecttos-g.com",
-        "libretro.com",
-        "qbittorrent.org",
-        "proton.me",
         "x.ai",
         "grok.com",
         "twimg.com"
