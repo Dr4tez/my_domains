@@ -31,7 +31,6 @@
         "gemini.google.com",
         "ntc.party",
         "cloudflare-ech.com",
-        "dis.gd",
         "4pda.to",
         "4pda.ws",
         "oaistatic.com",
@@ -55,7 +54,13 @@
         "x.ai",
         "x.com",
         "grok.com",
-        "twimg.com"
+        "twimg.com",
+        "dis.gd",
+        "disboard.org",
+        "disforge.com",
+        "dyno.gg",
+        "mee6.xyz",
+        "top.gg"
       ],
       "domain_keyword": [
         "test-ipv6",
