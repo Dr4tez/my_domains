@@ -4,6 +4,7 @@
     {
       "domain_suffix": [
         "dnsleaktest.com",
+        "iplocation.net",
         "googleusercontent.com",
         "googleapis.com",
         "googlevideo.com",
@@ -17,6 +18,7 @@
         "megapeer.vip",
         "rutor.info",
         "thepiratebay.org",
+        "torrindex.net",
         "nnmclub.to",
         "nnmstatic.win",
         "weather.com",
@@ -86,10 +88,6 @@
         "projectzomboid.com"
       ],
       "domain_keyword": [
-        "test-ipv6",
-        "testipv6",
-        "ipv6-test",
-        "ipv4-test",
         "youtube",
         "rutracker",
         "rezka.ag",
