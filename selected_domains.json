@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "soundcloud.com",
         "dnsleaktest.com",
         "whatismyip.help",
         "googleusercontent.com",
