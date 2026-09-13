@@ -23,6 +23,7 @@
         "2a03:2880::0/32"
       ],
       "domain_suffix": [
+        "sndcdn.com",
         "soundcloud.com",
         "dnsleaktest.com",
         "whatismyip.help",
