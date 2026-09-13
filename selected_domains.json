@@ -5,9 +5,10 @@
       "domain_suffix": [
         "sndcdn.com",
         "soundcloud.com",
-        "cookielaw.org",
-        "run.app",
-        "prodregistryv2.org",
+        "cloudfront.net",
+        "soundcloud.cloud",
+        "soundcloud.app.goo.gl",
+        "www.soundcloud.com",
         "dnsleaktest.com",
         "whatismyip.help",
         "googleusercontent.com",
